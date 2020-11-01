@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffe7923b-29fe-4630-9d2b-d41def13bdbe" name="Default Changelist" comment="" />
+    <list default="true" id="ffe7923b-29fe-4630-9d2b-d41def13bdbe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Download_A_Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convert_integer_to_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tuna.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionary.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,19 +22,27 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jPOur8wGbDiPbwGWcXj7h0Dsci" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Git" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Sets">
-    <configuration name="DefaultValue_For Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Download_A_Image">
+    <configuration name="Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBeginners" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,7 +54,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DefaultValue_For Arguments.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -47,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Download_A_Image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBeginners" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,28 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="KeyWords_Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonBeginners" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KeyWords_Values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Download_A_Image.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="convert_integer_to_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonBeginners" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,7 +117,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convert_integer_to_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonBeginners" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Download_A_Image" />
+        <item itemvalue="Python.convert_integer_to_string" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Dictionary" />
         <item itemvalue="Python.Sets" />
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.KeyWords_Values" />
-        <item itemvalue="Python.DefaultValue_For Arguments" />
-        <item itemvalue="Python.Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -171,22 +187,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="542" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603996438711" />
-    <state width="1515" height="334" key="GridCell.Tab.0.bottom" timestamp="1604095100446">
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1604188279144">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="334" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604095100446" />
-    <state width="1515" height="334" key="GridCell.Tab.0.center" timestamp="1604095100445">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604188279144" />
+    <state width="1515" height="334" key="GridCell.Tab.0.bottom" timestamp="1604229577745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="334" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604095100445" />
-    <state width="1515" height="334" key="GridCell.Tab.0.left" timestamp="1604095100445">
+    <state width="1515" height="334" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604229577745" />
+    <state width="1515" height="334" key="GridCell.Tab.0.center" timestamp="1604229577745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="334" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604095100445" />
-    <state width="1515" height="334" key="GridCell.Tab.0.right" timestamp="1604095100446">
+    <state width="1515" height="334" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604229577745" />
+    <state width="1515" height="334" key="GridCell.Tab.0.left" timestamp="1604229577744">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="334" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604095100446" />
+    <state width="1515" height="334" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604229577744" />
+    <state width="1515" height="334" key="GridCell.Tab.0.right" timestamp="1604229577745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="334" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604229577745" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1604189268230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604189268230" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1604189268230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604189268230" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1604189268230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604189268230" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1604189268230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604189268230" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1604188365627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604188365627" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1603949011218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
