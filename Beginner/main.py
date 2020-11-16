@@ -1,5 +1,5 @@
 # import tuna module
-import tuna
+from Beginner import tuna
 
 # import random module
 import random
