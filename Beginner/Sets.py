@@ -1,6 +1,6 @@
 # Same as LISt but cant hold DUPLICATIONS
 
-groceries = ["ceriel", "milk", "starcrunch", "beer", "duct tape", "lotion", "beer"]
+groceries = {"ceriel", "milk", "starcrunch", "beer", "duct tape", "lotion", "beer"}
 
 
 if "ceriel" in groceries:

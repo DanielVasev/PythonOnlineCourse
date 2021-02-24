@@ -2,8 +2,11 @@ class Enemy:
     life = 5
 
     def attack(self):
-        print("Ouch!")
-        self.life -= 1
+        if self.life <= 0:
+            print("Enemy is dead.. you cant attack it...")
+        else:
+            print("Ouch!")
+            self.life -= 1
 
     def check(self):
         if self.life <= 0:

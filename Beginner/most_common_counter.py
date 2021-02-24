@@ -1,4 +1,7 @@
+"""
+How to count most common words in text
 
+"""
 
 from collections import Counter
 
@@ -11,17 +14,21 @@ text = "It's a route map, but it's only big enough to get to the starting point.
   of a restaurant or bar. Both leaders had said they were putting data ahead of dates, but it was the prime minister's\
    dates that the public notice, remember and plan on. Travel bookings soared on Monday and Tuesday."
 
-
+# We split big string to separate list elements.
 words = text.split()
 
+# Creating counter
 counter = Counter(words)
+
+# Most common 3 words we can change the attribute
 top_three = counter.most_common(3)
+
+# Print the result
 print(top_three)
 
-
+# Counter how many words are in the text
 # print(words)
 # sum = 1
 # for n in words:
-  #   print(n, sum )
-   #  sum +=1
-
+  # print(n, sum )
+   # sum +=1
